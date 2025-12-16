@@ -11,7 +11,6 @@
 - 🌱 Explorando **Rust** y arquitecturas cloud-native (AWS, Google Cloud)
 - 👯 Interesado en colaborar en proyectos educativos y de código abierto
 - 🧪 Entusiasta del TDD y las metodologías ágiles
-- 📝 Autor técnico en [mi blog](https://wernerlh.com/)
 - ⚡ Combino desarrollo de software con electrónica (Arduino/IoT)
 
 ## 💻 Tecnologías
