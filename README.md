@@ -64,8 +64,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanjolh&layout=compact&locale=es&theme=tokyonight&hide_border=true" alt="juanjolh" />
 </div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=juanjolh&theme=tokyonight&hide_border=true" alt="juanjolh" />
-</div>
 
 
