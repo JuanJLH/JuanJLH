@@ -68,17 +68,4 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=juanjolh&theme=tokyonight&hide_border=true" alt="juanjolh" />
 </div>
 
-## 📫 Contacto
 
-<div align="center">
-  <a href="mailto:juan.lazo@uni.pe"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://wernerlh.com"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/juanjolh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/juanjlaho"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-</div>
-
-<div align="center">
-  <a href="https://instagram.com/juanjo.lh"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://fb.com/juanjo.laho"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://www.youtube.com/c/juanjolh"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-</div>
