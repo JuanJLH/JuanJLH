@@ -1,4 +1,4 @@
-# <div align="center">¡Hola 👋, soy Juanjo LH!</div>
+# <div align="center">¡Hola 👋, soy Juan L!</div>
 <div align="center">💻 Desarrollador Full Stack & Ingeniero de Software</div>
 <div align="center">🇵🇪 Perú</div>
 
